@@ -17,4 +17,4 @@ console.log(lena)
 
 const str = new String('I am string')
 
-console.log(st)
+console.log(str)
